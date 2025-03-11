@@ -1,0 +1,10 @@
+body{
+    background-image: url(../kepek/hatter1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+}
+h1, h2, p{
+    padding: 20px;
+}
